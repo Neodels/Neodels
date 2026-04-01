@@ -1,24 +1,18 @@
 # Neodx2's GitHub
 
-Hi, I'm Neo(dx2)<br/>
+Hi I'm Neo<br/>
 I type letters on a screen and sometimes it does stuff.<br/>
 Professional idiot<br/>
-https://neodx2.tech
 
 ## ⌨️ What I code:
-| | |
-|---|---|
-| I like Python | I do frontend web development (HTML, CSS, JS) |
-| <img src="https://github.com/Neodx2/Neodx2/blob/main/python-beloved.gif" height="150" width="150"> | <img src="https://github.com/Neodx2/Neodx2/blob/main/css-html.gif" height="150" width="150"> |
-| Trying to learn game dev | Programming is boring ngl |
-| <img src="https://github.com/Neodx2/Neodx2/blob/main/game-dev.gif" height="150" width="150"> | |
+basically nothing ts is too hard
 
 
 ### 💻 Current projects:
-`Last updated 24 Sep 24`
-- [Neodx2.tech](https://github.com/Neodx2/neodels.github.io) - My GH Pages website
+`Last updated 1 Apr 26`
 - Want to learn game dev but I'm procrastinating it
 - Busy with school
+- I dont know what to make lol
 
 ### 👥 I'm a part of:
 - [GoneRogue Productions (Discontinued)](https://github.com/GoneRogueProductions)
@@ -29,7 +23,7 @@ https://neodx2.tech
 - pwetty pwease
 
 ### 💬 You can find me on:
-- **Discord:** [neo.dx2 (click for my server)](https://neodx2.tech/discord)
+- **Discord:** neo.dx2
 - **YouTube:** [Neodx2](https://www.youtube.com/@neodx2)
 
 ### 📊 Stats
